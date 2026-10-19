@@ -1,4 +1,4 @@
-# My Repository of 1 Assignment
+# My Repository of CMB 1 Assignments
 
 ## Assignment 1
 
