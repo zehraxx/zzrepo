@@ -6,7 +6,7 @@ This is __bold__ text.
 This is text in *italics*.
 This is text  written both in **_bold and italics_**.
 
-[this is a web link](www.google.com)
+[this is a web link](https://www.google.com)
 
 |Student name|Group number|E-mail|
 |-------|-------|-------|
